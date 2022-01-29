@@ -63,4 +63,6 @@
 
 </details>
 
+[instagram]: https://www.instagram.com/malik_kroo/
+[linkedin]: https://linkedin.com/in/malik-omar-b3363ab1/
 
