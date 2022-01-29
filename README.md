@@ -4,7 +4,7 @@
 
 
 ## I'm a junior devops engineer!!
-- 🔭 I’m currently studying orchestration kubernetes
+- 🔭 I’m currently studying orchestration and kubernetes
 - 👯 I’m looking to collaborate on open source
 - 💬 Ask me about ... about devops and cloud
 - 😄 Pronouns: He/His
