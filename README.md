@@ -12,6 +12,8 @@
 - ⚡ Fun fact: I'm a team player
 ![devops gif](https://user-images.githubusercontent.com/91993656/151679072-9fad041a-6047-4ea3-b09f-d121fb9b3b94.gif)
 
+<br />
+
 ### Talk with me, I am kinda awesome:
 [<img align="left" alt="https://www.linkedin.com/in/malik-omar-b3363ab1/ | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="https://www.instagram.com/malik_kroo/ | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
