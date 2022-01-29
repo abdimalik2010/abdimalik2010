@@ -1,7 +1,6 @@
 
 ### Hello World, I'm Malik  👋
 
- <img align="right" alt="GIF" src="https://github.com/abdimalik2010/abdimalik2010/blob/main/code.gif?raw=true" width="500" height="320" />
 
 
 ## I'm a junior devops engineer!!
