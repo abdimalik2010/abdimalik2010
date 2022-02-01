@@ -6,7 +6,7 @@
 ## I'm a junior devops engineer!!
 - 🔭 I’m currently studying orchestration and kubernetes
 - � I’m looking to collaborate on open source
-- 💬 Ask me about ... about devops and cloud
+- 💬 Ask me about ... anything about devops and cloud engineering
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I'm a team player
 ![devops gif](https://user-images.githubusercontent.com/91993656/151679072-9fad041a-6047-4ea3-b09f-d121fb9b3b94.gif)
