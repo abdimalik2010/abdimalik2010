@@ -3,7 +3,7 @@
 
 
 
-## I'm a junior devops engineer!!
+## I'm a devops engineer!!
 - 🔭 I’m currently studying orchestration and kubernetes
 - � I’m looking to collaborate on open source
 - 💬 Ask me about ... anything about devops and cloud engineering
