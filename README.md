@@ -1,10 +1,10 @@
 
-### Hello World, I'm Malik  👋
+### Hello World, I'm Abdimalik  👋
 
 
 
 ## I'm a SRE!!
-- 🔭 I’m currently working as Site Reability Engineer
+- 🔭 I’m currently working as Site Reability Engineer III
 - � I’m looking to collaborate on open source
 - 💬 Ask me about ... anything about devops and cloud engineering
 - 😄 Pronouns: He/His
